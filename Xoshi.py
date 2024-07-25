@@ -84,7 +84,11 @@ hearts=0
 MusicNoteDict = {
     0: 1318,
     "C2": 65,
+    "D2": 73,
+    "E2":82,
+    "F2":87,
     "G2": 98,
+    "A2": 110,
     "B2": 123,
     "C3": 130,
     "CS3": 138,
@@ -224,13 +228,7 @@ SongList2 = ["C2", "E2", "G2", "B2", "D3", "G3",
     "G4", "E3", "G4", "D4",
     "C4", "G3", "E3", "G4",
     "A4", "E4", "C4", "G4",
-    "B4", "D5", "E5",
-    "G4", "D5", "G5", "A5",
-    "B5", "E5", "G5", "A5",
-    "C5", "G5", "D5", "G5",
-    "A5", "E5", "C5", "G5",
-    "G5", "E5", "G5", "D5",
-    "A5", "C5", "G5", "E5"]
+    "B4"]
 #Game Music Main (Removed Shrill Stops)
 
 #Plants on parade lower octave
