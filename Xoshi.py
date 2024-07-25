@@ -134,7 +134,8 @@ MusicNoteDict = {
 }
 
 #Introduction Theme
-SongList1 = ["G4", "A4", "D5", "F5", "G5", "G5", "G5", "G5", "G5", "F5", "E5", "D5", "C5",
+SongList1 = [#Plants on parade High octave
+    "G4", "A4", "D5", "F5", "G5", "G5", "G5", "G5", "G5", "F5", "E5", "D5", "C5",
     "G4", "C5", "C5", "G4", "C5", "C5", "C5", "G4", "G4", "C5",
     "G5", "G5", "C6", "A5", "G5", "E5", "C5", "B4", "A4", "B4", "C5", "D5",
     "F5", "E5", "F5", "G5", "A5", "A5", "G5", "F5", "E5", "D5", "E5", "F5", "G5",
@@ -191,24 +192,8 @@ SongList1 = ["G4", "A4", "D5", "F5", "G5", "G5", "G5", "G5", "G5", "F5", "E5", "
     "B3", "A3", "C4", "E4", "B4", "D5", "F5",  # 7 (6 1′) 3′ 7′ (2′ 4′ 6′)
     "E4", "F4", "G3", "B3", "D4", "G4"]  # 3′ 4′ (5 7 2′ 5′)
 
-#Waiting and Boss Music Composed by myself based on Beat of Bagpipes
-SongList2 = ["C2", "E2", "G2", "B2", "D3", "G3",
-    "E3", "D3", "C3", "B2", "A2", "G2", "F2",
-    "G3", "D3",
-    "G2", "A2", "B2", "G2", "E2", "D3",
-    "A2", "E2", "C3", "E2",
-    "D3", "E3", "F3", "G3",
-    "A2", "G2", "E2", "F2", "G2", "A2",
-    "E2", "G2", "C3", "E3",
-    "A2", "B2", "G2",
-    "A2", "B2", "D3",
-    "C3", "B2", "G2", "A2", "G2", "F2", "E2",
-    "F2", "G2", "A2", "B2",
-    "A2", "G2", "F2", "E2", "D2", "E2", "F2",
-    "E2", "C2", "G2", "E2",
-    "A2", "E2", "G2",
-    "E2", "F2", "G2",
-    "A2", "B2", "D3", "E3", "F3", "G3",
+#Waiting and Boss Music Composed by myself 
+SongList2 = ["A2", "B2", "D3", "E3", "F3", "G3",
     "G2", "A2", "B2",
     "G2", "E2", "C3", "E3", "G3",
     "D3", "E3", "F3", "G3",
@@ -218,17 +203,7 @@ SongList2 = ["C2", "E2", "G2", "B2", "D3", "G3",
     "C3", "G2", "E2", "C3", "E3",
     "G3", "A3", "B3", "C4",
     "E2", "G2", "C3", "E3",
-    "G3", "D3", "G3", "A3",
-    "E3", "G3", "C4", "E4",
-    "D3", "G3", "A3", "B3",
-    "E3", "G3", "C4", "E4",
-    "G3", "D3", "G3", "A3",
-    "B3", "E4", "G4", "A4",
-    "B4", "D4", "E4", "G4",
-    "G4", "E3", "G4", "D4",
-    "C4", "G3", "E3", "G4",
-    "A4", "E4", "C4", "G4",
-    "B4"]
+    "G3", "D3", "G3", "A3"]
 #Game Music Main (Removed Shrill Stops)
 
 #Plants on parade lower octave
